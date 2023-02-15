@@ -3,5 +3,7 @@
 Robot face animation eyes with oled、paj7620_9gestures sensor sg90 servo motor and arduino uno 
 
 robot_vector_shoushi.ino 有bug，显示屏和传感器无法同时初始化
+
 robot_vector0shoushi.ino 有bug，显示屏和传感器无法同时初始化
+
 功能等效重写：
