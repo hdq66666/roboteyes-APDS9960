@@ -6,6 +6,6 @@ robot_vector_shoushi.ino 适用于spi ssd1306和paj7620u2，有bug，显示屏�
 
 robot_vector0shoushi.ino 适用于i2c ssd1306和paj7620u2，有bug，显示屏和传感器无法同时初始化
 
-r1.ino可正常使用，适用于apds9960，适用于paj7620u2的代码已等效重写
+r1.ino可正常使用，适用于i2c ssd1306和apds9960，适用于paj7620u2的代码已等效重写
 
 
