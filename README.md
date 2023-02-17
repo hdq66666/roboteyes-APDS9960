@@ -6,4 +6,6 @@ robot_vector_shoushi.ino 有bug，显示屏和传感器无法同时初始化
 
 robot_vector0shoushi.ino 有bug，显示屏和传感器无法同时初始化
 
-功能等效重写：
+r1.ino可正常使用，传感器使用apds9960，适用于paj7620u2的代码已等效重写
+
+
